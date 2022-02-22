@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding:0;
+}
+h2{
+    background:url(pic.jpg);
+    background-size:300% ;
+    background-position: -400px 0px;
+}
+
+div.main{
+    width:600px;
+    margin: 200px auto 0px auto;
+
+}
+body{
+    text-align: center;
+    padding : 20px ;
+    font-family: sans-serif;
+}
+
+div.register{
+    background-color:rgba(200, 50, 20, 50.5);
+    width:100%;
+    font-size:18px;
+    border-radius:10px;
+    color : #fff;
+    
+}
+form#register{
+    margin:40px;
+}
+input#submit{
+    width:200px;
+    padding:7px;
+    font-size:16px;
+    font-weight:600;
+    color:#fff;
+    cursor:pointer;
+    color:rgba(255,0,255,0.3);
+}
